@@ -1,6 +1,22 @@
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
 
+#### 0x Protocol
+[X] [0x RFQ API](https://0x.org/docs/guides/rfqt-in-the-0x-api)
+[X] buy/sell quotes ERC20-ETH
+[X] buy/sell quotes ERC20-USDC
+[X] quotes and liquidity on wedsite to buy/sell
+[] documentation
+[] CLI(?)
+
+#### Ribbon
+[X] [0x RFQ API](https://0x.org/docs/guides/rfqt-in-the-0x-api)
+[X] buy/sell quotes ERC20-ETH
+[X] buy/sell quotes ERC20-USDC
+[X] quotes and liquidity on wedsite to buy/sell
+[] documentation
+[] CLI(?)
+
 ## Available Scripts
 
 In the project directory, you can run:
